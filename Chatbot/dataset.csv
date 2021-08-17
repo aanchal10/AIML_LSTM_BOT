@@ -1,0 +1,11 @@
+﻿Sr.No,Expression,Intent
+1,Hello,chat_greeting
+2,Hi. How are you,chat_greeting
+3,What's up,chat_greeting
+4,Play soongs **. I am getting bored.,play_music
+5,Play srk songs,play_music
+6,I want to watch movie,play_movie
+7,Show some moviees,play_movie
+8,Talk to you later,chat_bye
+9,Bye. I will talk to you after sometime.,chat_bye
+10,let's talk tomorrow,chat_bye

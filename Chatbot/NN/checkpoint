@@ -1,0 +1,2 @@
+model_checkpoint_path: "/Users/aanchal.sharma/Python Projects/Chatbot/NN/model.tflearn"
+all_model_checkpoint_paths: "/Users/aanchal.sharma/Python Projects/Chatbot/NN/model.tflearn"
